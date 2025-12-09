@@ -3,10 +3,6 @@
   <!-- Шапка -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Frontend%20Developer&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%" />
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vilzar.vilzar&"  />
-</div>
-
   <!-- Слоган -->
   <h3>
     Turning designs into <code>&lt;Component /&gt;</code>
@@ -60,7 +56,7 @@
         <b>Styling & UI</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,threejs" height="40" align="middle" alt="styling" />
+        <img src="https://skillicons.dev/icons?i=tailwind,sass,threejs" height="40" align="middle" alt="styling" />
       </td>
     </tr>
     <tr>
@@ -69,15 +65,6 @@
       </td>
       <td align="left">
         <img src="https://skillicons.dev/icons?i=vite,webpack,babel,npm,bun" height="40" align="middle" alt="build tools" />
-      </td>
-    </tr>
- <!-- Работа с данными и State -->
-    <tr>
-      <td align="center" width="150">
-        <b>Data & State</b>
-      </td>
-      <td align="left">
-        <img src="https://skillicons.dev/icons?i=redux,apollo,supabase" height="40" align="middle" alt="data" />
       </td>
     </tr>
     <!-- Тестирование -->
@@ -95,16 +82,16 @@
         <b>Design</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=figma,ps,svg" height="40" align="middle" alt="design" />
+        <img src="https://skillicons.dev/icons?i=figma,ps" height="40" align="middle" alt="design" />
       </td>
     </tr>
     <!-- Инфраструктура -->
     <tr>
       <td align="center" width="150">
-        <b>Infra & IDE</b>
+        <b>Other</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=git,docker,nginx,vscode" height="40" align="middle" alt="infra" />
+        <img src="https://skillicons.dev/icons?i=git,docker,nginx,apollo" height="40" align="middle" alt="infra" />
       </td>
     </tr>
   </table>
