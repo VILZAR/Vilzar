@@ -13,16 +13,18 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Твой никнейм
-          user: vilzar
+          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
-          # Настройки внешнего вида
-          template: classic
+          # Базовые метрики
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Moscow
           
-          # Цвета (Темная тема React)
-          config_style: |
-            body { background-color: #0D1117 !important; }
-            h1, h2, h3 { color: #61DAFB !important; }
+          # Настройки
+          config_timezone: Europe/Moscow
+          config_padding: 0, 8 + 11%
+          
+          # Стилизация через CSS (Исправлено)
+          extras_css: |
+            svg { background-color: #0D1117; border-radius: 10px; }
+            .field { color: #61DAFB; }
+            h1, h2, h3 { color: #61DAFB; }
