@@ -111,9 +111,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vilzar/vilzar/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-<div align="center">
-  <h3>📊 Подробная сводка</h3>
-  <!-- Ссылка на сгенерированный файл -->
-  <img src="https://raw.githubusercontent.com/vilzar/vilzar/main/github-metrics.svg" alt="Metrics" width="100%" />
-</div>
