@@ -3,20 +3,29 @@
   <!-- Шапка -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Frontend%20Dev&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%" />
 
-<br />
-
   <!-- Слоган -->
   <h3>
-    Превращаю дизайн в <code>&lt;Component /&gt;</code>
+    Turning designs into <code>&lt;Component /&gt;</code>
   </h3>
 
-  <!-- Контакты -->
-  <p>
-    <a href="https://t.me/ilya_razin">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-  </p>
+<!-- Контакты -->
+  <div align="center">
 
+  <!-- Telegram -->
+  <a href="https://t.me/ilya_razin">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" height="50" width="50" alt="Telegram" />
+  </a>
+  &nbsp; <!-- Отступ -->
+  
+  <!-- Gmail -->
+  <a href="mailto:vilzar.developer@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" height="50" width="50" alt="Gmail" />
+  </a>
+  &nbsp;
+
+</div>
+
+  <br />
   <br />
 
   <!-- Стек технологий (Таблица выровнена по центру) -->
