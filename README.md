@@ -39,7 +39,7 @@
       <td align="center" width="150" >
         <b>Languages</b>
       </td>
-      <td align="left" height="60">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="40" align="middle"  alt="languages" />
       </td>
     </tr>
@@ -47,7 +47,7 @@
       <td align="center" width="150">
         <b>Frameworks</b>
       </td>
-      <td align="left" height="60">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=react,nextjs" height="40" align="middle" alt="frameworks" />
       </td>
     </tr>
@@ -55,7 +55,7 @@
       <td align="center" width="150">
         <b>Styling & UI</b>
       </td>
-      <td align="left" height="60">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,threejs" height="40" align="middle" alt="styling" />
       </td>
     </tr>
@@ -63,7 +63,7 @@
       <td align="center" width="150">
         <b>Build & Tools</b>
       </td>
-      <td align="left" height="60">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=vite,webpack,babel,npm,bun" height="40" align="middle" alt="build tools" />
       </td>
     </tr>
@@ -72,8 +72,8 @@
       <td align="center" width="150">
         <b>Data & State</b>
       </td>
-      <td align="left" height="60">
-        <img src="https://skillicons.dev/icons?i=redux,apollo,supabased" height="40" align="middle" alt="data" />
+      <td align="left">
+        <img src="https://skillicons.dev/icons?i=redux,apollo,supabase" height="40" align="middle" alt="data" />
       </td>
     </tr>
     <!-- Тестирование -->
@@ -81,7 +81,7 @@
       <td align="center" width="150">
         <b>Testing</b>
       </td>
-      <td align="left" height="60">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=jest,cypress,postman" height="40" align="middle" alt="testing" />
       </td>
     </tr>
@@ -90,7 +90,7 @@
       <td align="center" width="150">
         <b>Design</b>
       </td>
-      <td align="left" height="60">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=figma,ps,svg" height="40" align="middle" alt="design" />
       </td>
     </tr>
@@ -99,7 +99,7 @@
       <td align="center" width="150">
         <b>Infra & IDE</b>
       </td>
-      <td align="left" height="60">
+      <td align="left">
         <img src="https://skillicons.dev/icons?i=git,docker,nginx,vscode" height="40" align="middle" alt="infra" />
       </td>
     </tr>
