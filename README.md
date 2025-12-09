@@ -3,6 +3,8 @@
   <!-- Шапка -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Frontend%20Dev&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%" />
 
+<br />
+
   <!-- Слоган -->
   <h3>
     Превращаю дизайн в <code>&lt;Component /&gt;</code>
