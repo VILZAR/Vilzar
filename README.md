@@ -8,6 +8,9 @@
     Turning designs into <code>&lt;Component /&gt;</code>
   </h3>
 
+<!--![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Turning+designs+into+<Component+/>;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code¢er=true&width=380&height=50)-->
+
+
 <!-- Контакты -->
   <div align="center">
 
