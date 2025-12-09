@@ -37,7 +37,7 @@
         <b>Frameworks</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,solidjs,remix,alpinejs,qwik,lit,electron,tauri" height="40" alt="frameworks" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs" height="40" alt="frameworks" />
       </td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@
         <b>Styling & UI</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=tailwind,sass,less,bootstrap,materialui,styledcomponents,emotion,pug,qt" height="40" alt="styling" />
+        <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" height="40" alt="styling" />
       </td>
     </tr>
     <tr>
@@ -53,7 +53,7 @@
         <b>Build & Tools</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=vite,webpack,rollup,babel,gulp,parcel,npm,yarn,pnpm,bun,eslint,prettier" height="40" alt="build tools" />
+        <img src="https://skillicons.dev/icons?i=vite,webpack,babel,npm,bun" height="40" alt="build tools" />
       </td>
     </tr>
  <!-- Работа с данными и State -->
@@ -62,7 +62,7 @@
         <b>Data & State</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=redux,graphql,apollo,firebase,supabase,mongodb,redis,jquery" height="40" alt="data" />
+        <img src="https://skillicons.dev/icons?i=redux,apollo,supabased" height="40" alt="data" />
       </td>
     </tr>
     <!-- Тестирование -->
@@ -71,7 +71,7 @@
         <b>Testing</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,playwright,selenium,postman" height="40" alt="testing" />
+        <img src="https://skillicons.dev/icons?i=jest,cypress,postman" height="40" alt="testing" />
       </td>
     </tr>
     <!-- Дизайн -->
@@ -80,7 +80,7 @@
         <b>Design</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,sketch,blender,svg" height="40" alt="design" />
+        <img src="https://skillicons.dev/icons?i=figma,ps,svg" height="40" alt="design" />
       </td>
     </tr>
     <!-- Инфраструктура -->
@@ -89,7 +89,7 @@
         <b>Infra & IDE</b>
       </td>
       <td align="left">
-        <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,nginx,vercel,netlify,heroku,vscode,idea,vim" height="40" alt="infra" />
+        <img src="https://skillicons.dev/icons?i=git,docker,nginx,vscode" height="40" alt="infra" />
       </td>
     </tr>
   </table>
