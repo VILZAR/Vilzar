@@ -3,26 +3,12 @@
   <!-- Шапка -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Frontend%20Developer&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%" />
 
-  <!-- Контакты -->
-  <h3 align="center">Contacts</h3>
-  <p align="center">
-    <!-- Telegram -->
-    <a href="https://t.me/ilya_razin" title="Telegram">
-      <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" height="30" width="30" alt="Telegram" />
-    </a>
-    &nbsp;&nbsp;
-    <!-- Gmail -->
-    <a href="mailto:vilzar.developer@gmail.com" title="Email">
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30" alt="Gmail" />
-    </a>
-  </p>
-
-  <br />
-
   <!-- Слоган -->
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Turning+designs+into+<Component+/>;Coffee+into+<Code+/>;And+ideas+into+<Reality+/>" alt="Typing SVG" />
   </div>
+
+  <br />
 
   <!-- Стек технологий -->
   <table border="0">
