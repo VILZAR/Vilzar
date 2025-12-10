@@ -4,9 +4,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Frontend%20Developer&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" width="100%" />
 
   <!-- Слоган -->
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Turning+designs+into+<Component+/>;Coffee+into+<Code+/>;And+ideas+into+<Reality+/>" alt="Typing SVG" />
-  </div>
+<div align="center">
+  <picture>
+    <!-- тёмная тема GitHub -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Turning+designs+into+<Component+/>;Coffee+into+<Code+/>;And+ideas+into+<Reality+/>"
+    />
+    <!-- светлая тема GitHub -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Turning+designs+into+<Component+/>;Coffee+into+<Code+/>;And+ideas+into+<Reality+/>"
+    />
+    <!-- fallback (на всякий случай) -->
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Turning+designs+into+<Component+/>;Coffee+into+<Code+/>;And+ideas+into+<Reality+/>"
+      alt="Typing SVG"
+    />
+  </picture>
+</div>
 
   <br />
 
