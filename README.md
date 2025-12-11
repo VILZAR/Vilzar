@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Шапка -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F4D&height=200&section=header&text=Frontend%20Developer&fontSize=70&animation=fadeIn&fontColor=FFFFFF&stroke=0d1117" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF99,100:001F4D&height=200&section=header&text=Frontend%20Developer&fontSize=80&animation=fadeIn&fontColor=FFFFFF&stroke=0d1117" width="100%" />
 
   <br />
 
@@ -99,7 +99,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vilzar/vilzar/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vilzar/vilzar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vilzar/vilzar/output/github-contribution-grid-snake.svg" width="80%">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vilzar/vilzar/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
   
 </div>
